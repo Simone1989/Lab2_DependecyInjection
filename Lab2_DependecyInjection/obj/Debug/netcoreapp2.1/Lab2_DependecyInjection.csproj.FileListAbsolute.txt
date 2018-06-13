@@ -2,7 +2,6 @@ E:\Mina dokument\MON STUFF\Repos\Clean Code\Lab2_DependecyInjection\Lab2_Depende
 E:\Mina dokument\MON STUFF\Repos\Clean Code\Lab2_DependecyInjection\Lab2_DependecyInjection\bin\Debug\netcoreapp2.1\Lab2_DependecyInjection.runtimeconfig.json
 E:\Mina dokument\MON STUFF\Repos\Clean Code\Lab2_DependecyInjection\Lab2_DependecyInjection\bin\Debug\netcoreapp2.1\Lab2_DependecyInjection.runtimeconfig.dev.json
 E:\Mina dokument\MON STUFF\Repos\Clean Code\Lab2_DependecyInjection\Lab2_DependecyInjection\bin\Debug\netcoreapp2.1\Lab2_DependecyInjection.dll
-E:\Mina dokument\MON STUFF\Repos\Clean Code\Lab2_DependecyInjection\Lab2_DependecyInjection\obj\Debug\netcoreapp2.1\Lab2_DependecyInjection.csprojAssemblyReference.cache
 E:\Mina dokument\MON STUFF\Repos\Clean Code\Lab2_DependecyInjection\Lab2_DependecyInjection\obj\Debug\netcoreapp2.1\Lab2_DependecyInjection.csproj.CoreCompileInputs.cache
 E:\Mina dokument\MON STUFF\Repos\Clean Code\Lab2_DependecyInjection\Lab2_DependecyInjection\obj\Debug\netcoreapp2.1\Lab2_DependecyInjection.RazorAssemblyInfo.cache
 E:\Mina dokument\MON STUFF\Repos\Clean Code\Lab2_DependecyInjection\Lab2_DependecyInjection\obj\Debug\netcoreapp2.1\Lab2_DependecyInjection.RazorAssemblyInfo.cs

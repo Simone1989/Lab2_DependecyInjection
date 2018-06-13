@@ -14,3 +14,6 @@ E:\Mina dokument\MON STUFF\Repos\Clean Code\Lab2_DependecyInjection\Lab2_Depende
 E:\Mina dokument\MON STUFF\Repos\Clean Code\Lab2_DependecyInjection\Lab2_DependencyInjection_Tests\obj\Debug\netcoreapp2.1\Lab2_DependencyInjection_Tests.AssemblyInfoInputs.cache
 E:\Mina dokument\MON STUFF\Repos\Clean Code\Lab2_DependecyInjection\Lab2_DependencyInjection_Tests\obj\Debug\netcoreapp2.1\Lab2_DependencyInjection_Tests.AssemblyInfo.cs
 E:\Mina dokument\MON STUFF\Repos\Clean Code\Lab2_DependecyInjection\Lab2_DependencyInjection_Tests\obj\Debug\netcoreapp2.1\Lab2_DependencyInjection_Tests.csproj.CopyComplete
+E:\Mina dokument\MON STUFF\Repos\Clean Code\Lab2_DependecyInjection\Lab2_DependencyInjection_Tests\bin\Debug\netcoreapp2.1\Lab2_DependencyInjection_Tests.pdb
+E:\Mina dokument\MON STUFF\Repos\Clean Code\Lab2_DependecyInjection\Lab2_DependencyInjection_Tests\obj\Debug\netcoreapp2.1\Lab2_DependencyInjection_Tests.dll
+E:\Mina dokument\MON STUFF\Repos\Clean Code\Lab2_DependecyInjection\Lab2_DependencyInjection_Tests\obj\Debug\netcoreapp2.1\Lab2_DependencyInjection_Tests.pdb
