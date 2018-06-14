@@ -29,3 +29,35 @@ E:\Mina dokument\MON STUFF\Repos\Clean Code\Lab2_DependecyInjection\Lab2_Depende
 E:\Mina dokument\MON STUFF\Repos\Clean Code\Lab2_DependecyInjection\Lab2_DependecyInjection\obj\Debug\netcoreapp2.1\Lab2_DependecyInjection.dll
 E:\Mina dokument\MON STUFF\Repos\Clean Code\Lab2_DependecyInjection\Lab2_DependecyInjection\obj\Debug\netcoreapp2.1\Lab2_DependecyInjection.pdb
 E:\Mina dokument\MON STUFF\Repos\Clean Code\Lab2_DependecyInjection\Lab2_DependecyInjection\obj\Debug\netcoreapp2.1\Lab2_DependecyInjection.csproj.CopyComplete
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependecyInjection\bin\Debug\netcoreapp2.1\Lab2_DependecyInjection.deps.json
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependecyInjection\bin\Debug\netcoreapp2.1\Lab2_DependecyInjection.runtimeconfig.json
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependecyInjection\bin\Debug\netcoreapp2.1\Lab2_DependecyInjection.runtimeconfig.dev.json
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependecyInjection\bin\Debug\netcoreapp2.1\Lab2_DependecyInjection.dll
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependecyInjection\bin\Debug\netcoreapp2.1\Lab2_DependecyInjection.pdb
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependecyInjection\bin\Debug\netcoreapp2.1\Lab2_DependecyInjection.Views.dll
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependecyInjection\bin\Debug\netcoreapp2.1\Lab2_DependecyInjection.Views.pdb
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependecyInjection\obj\Debug\netcoreapp2.1\Lab2_DependecyInjection.csprojAssemblyReference.cache
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependecyInjection\obj\Debug\netcoreapp2.1\Lab2_DependecyInjection.csproj.CoreCompileInputs.cache
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependecyInjection\obj\Debug\netcoreapp2.1\Lab2_DependecyInjection.RazorAssemblyInfo.cache
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependecyInjection\obj\Debug\netcoreapp2.1\Lab2_DependecyInjection.RazorAssemblyInfo.cs
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependecyInjection\obj\Debug\netcoreapp2.1\Lab2_DependecyInjection.AssemblyInfoInputs.cache
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependecyInjection\obj\Debug\netcoreapp2.1\Lab2_DependecyInjection.AssemblyInfo.cs
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependecyInjection\obj\Debug\netcoreapp2.1\Lab2_DependecyInjection.TagHelpers.input.cache
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependecyInjection\obj\Debug\netcoreapp2.1\Lab2_DependecyInjection.TagHelpers.output.cache
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependecyInjection\obj\Debug\netcoreapp2.1\Lab2_DependecyInjection.RazorCoreGenerate.cache
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependecyInjection\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependecyInjection\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependecyInjection\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependecyInjection\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependecyInjection\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependecyInjection\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependecyInjection\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependecyInjection\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependecyInjection\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependecyInjection\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependecyInjection\obj\Debug\netcoreapp2.1\Lab2_DependecyInjection.RazorTargetAssemblyInfo.cache
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependecyInjection\obj\Debug\netcoreapp2.1\Lab2_DependecyInjection.RazorTargetAssemblyInfo.cs
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependecyInjection\obj\Debug\netcoreapp2.1\Lab2_DependecyInjection.Views.pdb
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependecyInjection\obj\Debug\netcoreapp2.1\Lab2_DependecyInjection.dll
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependecyInjection\obj\Debug\netcoreapp2.1\Lab2_DependecyInjection.pdb
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependecyInjection\obj\Debug\netcoreapp2.1\Lab2_DependecyInjection.csproj.CopyComplete

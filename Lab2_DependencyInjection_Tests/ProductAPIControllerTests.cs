@@ -1,7 +1,9 @@
 using Lab2_DependecyInjection.Controllers;
 using Lab2_DependecyInjection.Models;
 using Moq;
+using System.Collections.Generic;
 using Xunit;
+using System.Linq;
 
 namespace Lab2_DependencyInjection_Tests
 {
@@ -17,6 +19,27 @@ namespace Lab2_DependencyInjection_Tests
 
             mockRequest.Verify(m => m.GetAllData(), Times.Once());
 
+        }
+
+        [Fact]
+        public void GetAllData_ShouldReturnListOfProducts()
+        {
+            var mockRequest = new Mock<IApiRequestSend<Product>>();
+            IEnumerable<Product> products = new[]
+            {
+                new Product(2, "Car", 30000, 2, "A"),
+                new Product(3, "Mouse pad", 20, 1, "C")
+            };
+            var productController = new ProductAPIController(mockRequest.Object);
+            mockRequest.Setup(m => m.GetAllData()).Returns(products);
+
+            var actual = mockRequest.Object.GetAllData();
+            var expected = products;
+
+            //Assert.Contains(actual, x=> x.Id==)
+            //actual.Contains()
+            
+            Assert.Equal(expected, actual);
         }
 
         [Fact]

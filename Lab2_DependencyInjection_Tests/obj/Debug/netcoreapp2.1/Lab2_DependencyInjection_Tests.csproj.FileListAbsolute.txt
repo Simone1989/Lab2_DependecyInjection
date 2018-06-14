@@ -17,3 +17,22 @@ E:\Mina dokument\MON STUFF\Repos\Clean Code\Lab2_DependecyInjection\Lab2_Depende
 E:\Mina dokument\MON STUFF\Repos\Clean Code\Lab2_DependecyInjection\Lab2_DependencyInjection_Tests\bin\Debug\netcoreapp2.1\Lab2_DependencyInjection_Tests.pdb
 E:\Mina dokument\MON STUFF\Repos\Clean Code\Lab2_DependecyInjection\Lab2_DependencyInjection_Tests\obj\Debug\netcoreapp2.1\Lab2_DependencyInjection_Tests.dll
 E:\Mina dokument\MON STUFF\Repos\Clean Code\Lab2_DependecyInjection\Lab2_DependencyInjection_Tests\obj\Debug\netcoreapp2.1\Lab2_DependencyInjection_Tests.pdb
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependencyInjection_Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependencyInjection_Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependencyInjection_Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependencyInjection_Tests\bin\Debug\netcoreapp2.1\Lab2_DependecyInjection.Views.dll
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependencyInjection_Tests\bin\Debug\netcoreapp2.1\Lab2_DependecyInjection.Views.pdb
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependencyInjection_Tests\bin\Debug\netcoreapp2.1\Lab2_DependencyInjection_Tests.deps.json
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependencyInjection_Tests\bin\Debug\netcoreapp2.1\Lab2_DependencyInjection_Tests.runtimeconfig.json
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependencyInjection_Tests\bin\Debug\netcoreapp2.1\Lab2_DependencyInjection_Tests.runtimeconfig.dev.json
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependencyInjection_Tests\bin\Debug\netcoreapp2.1\Lab2_DependencyInjection_Tests.dll
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependencyInjection_Tests\bin\Debug\netcoreapp2.1\Lab2_DependencyInjection_Tests.pdb
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependencyInjection_Tests\bin\Debug\netcoreapp2.1\Lab2_DependecyInjection.dll
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependencyInjection_Tests\bin\Debug\netcoreapp2.1\Lab2_DependecyInjection.pdb
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependencyInjection_Tests\obj\Debug\netcoreapp2.1\Lab2_DependencyInjection_Tests.csprojAssemblyReference.cache
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependencyInjection_Tests\obj\Debug\netcoreapp2.1\Lab2_DependencyInjection_Tests.csproj.CoreCompileInputs.cache
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependencyInjection_Tests\obj\Debug\netcoreapp2.1\Lab2_DependencyInjection_Tests.AssemblyInfoInputs.cache
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependencyInjection_Tests\obj\Debug\netcoreapp2.1\Lab2_DependencyInjection_Tests.AssemblyInfo.cs
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependencyInjection_Tests\obj\Debug\netcoreapp2.1\Lab2_DependencyInjection_Tests.csproj.CopyComplete
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependencyInjection_Tests\obj\Debug\netcoreapp2.1\Lab2_DependencyInjection_Tests.dll
+D:\Dokument\Repos laptop\Lab2_DependecyInjection\Lab2_DependencyInjection_Tests\obj\Debug\netcoreapp2.1\Lab2_DependencyInjection_Tests.pdb

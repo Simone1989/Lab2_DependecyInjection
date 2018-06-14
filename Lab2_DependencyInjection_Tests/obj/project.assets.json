@@ -5611,7 +5611,7 @@
       ]
     },
     "runtime.native.System.IO.Compression/4.3.0": {
-      "sha512": "INBPonS5QPEgn7naufQFXJEp3zX6L4bwHgJ/ZH78aBTpeNfQMtf7C6VrAFhlq2xxWBveIOWyFzQjJ8XzHMhdOQ==",
+      "sha512": "T9HvW8ys5ipU6ENEanasx3OpmLx/yBOzuv0laiWWXnUH+x2/EuQ/TghQfomrrl3CHS8TUdMBosf9lf/q8QKRog==",
       "type": "package",
       "path": "runtime.native.system.io.compression/4.3.0",
       "files": [
@@ -5683,7 +5683,7 @@
       ]
     },
     "runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.Apple/4.3.0": {
-      "sha512": "kVXCuMTrTlxq4XOOMAysuNwsXWpYeboGddNGpIgNSZmv1b6r/s/DPk0fYMB7Q5Qo4bY68o48jt4T4y5BVecbCQ==",
+      "sha512": "aFmnS5qvJruWTPr+W3hQquxtWE+Utn+JBF7IzUWcdKHUr4XaoxhSubjuPhxaOopQ2LVI8aSRw40gVegfQ9gBQw==",
       "type": "package",
       "path": "runtime.osx.10.10-x64.runtime.native.system.security.cryptography.apple/4.3.0",
       "files": [
@@ -10291,11 +10291,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Mina dokument\\MON STUFF\\Repos\\Clean Code\\Lab2_DependecyInjection\\Lab2_DependencyInjection_Tests\\Lab2_DependencyInjection_Tests.csproj",
+      "projectUniqueName": "D:\\Dokument\\Repos laptop\\Lab2_DependecyInjection\\Lab2_DependencyInjection_Tests\\Lab2_DependencyInjection_Tests.csproj",
       "projectName": "Lab2_DependencyInjection_Tests",
-      "projectPath": "E:\\Mina dokument\\MON STUFF\\Repos\\Clean Code\\Lab2_DependecyInjection\\Lab2_DependencyInjection_Tests\\Lab2_DependencyInjection_Tests.csproj",
+      "projectPath": "D:\\Dokument\\Repos laptop\\Lab2_DependecyInjection\\Lab2_DependencyInjection_Tests\\Lab2_DependencyInjection_Tests.csproj",
       "packagesPath": "C:\\Users\\Mon\\.nuget\\packages\\",
-      "outputPath": "E:\\Mina dokument\\MON STUFF\\Repos\\Clean Code\\Lab2_DependecyInjection\\Lab2_DependencyInjection_Tests\\obj\\",
+      "outputPath": "D:\\Dokument\\Repos laptop\\Lab2_DependecyInjection\\Lab2_DependencyInjection_Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -10314,8 +10314,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "E:\\Mina dokument\\MON STUFF\\Repos\\Clean Code\\Lab2_DependecyInjection\\Lab2_DependecyInjection\\Lab2_DependecyInjection.csproj": {
-              "projectPath": "E:\\Mina dokument\\MON STUFF\\Repos\\Clean Code\\Lab2_DependecyInjection\\Lab2_DependecyInjection\\Lab2_DependecyInjection.csproj"
+            "D:\\Dokument\\Repos laptop\\Lab2_DependecyInjection\\Lab2_DependecyInjection\\Lab2_DependecyInjection.csproj": {
+              "projectPath": "D:\\Dokument\\Repos laptop\\Lab2_DependecyInjection\\Lab2_DependecyInjection\\Lab2_DependecyInjection.csproj"
             }
           }
         }
